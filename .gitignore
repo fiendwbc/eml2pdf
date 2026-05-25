@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tool/IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# eml2pdf working/output artifacts
+*.__eml2pdf__.html
+# Generated PDFs and sample emails — keep them out of the repo by default.
+# Remove these lines if you intend to commit example files.
+*.pdf
+*.eml

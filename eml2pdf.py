@@ -22,7 +22,7 @@ Each PDF contains:
   - A list of attachments at the bottom (not embedded in the PDF)
 
 Requirements:
-  - Python 3.8+
+  - Python 3.12+
   - wkhtmltopdf  (Debian/Ubuntu: `apt install wkhtmltopdf`;
                   macOS: `brew install wkhtmltopdf`;
                   Windows: https://wkhtmltopdf.org/downloads.html)
